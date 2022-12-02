@@ -322,11 +322,9 @@
               <li>
                 <a href="#" target="_blank">Twitter</a>
               </li>
-
               <li>
                 <a href="#" target="_blank">Facebook</a>
               </li>
-
               <li>
                 <a href="#" target="_blank">Instagram</a>
               </li>
@@ -338,7 +336,6 @@
         </footer>
       </div>
     </div>
-
     <script src="js/jquery-3.5.1.min.js"></script>
     <script src="js/imagesloaded.pkgd.min.js"></script>
     <script src='https://www.google.com/recaptcha/api.js'></script>
